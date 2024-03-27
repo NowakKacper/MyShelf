@@ -1,7 +1,7 @@
 # MyShelf
 
 ## Presentation of the application's operation
-link do filmiku na yt
+https://www.youtube.com/watch?v=RdJtyGmRDUg&ab_channel=KacperNowak
 
 ## Screenshots
 ![Starting page](https://github.com/NowakKacper/MyShelf/assets/87521449/7f6a1469-5921-41f7-a954-fddc555c2a56)
