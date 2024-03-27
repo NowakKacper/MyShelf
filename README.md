@@ -42,9 +42,9 @@ https://www.youtube.com/watch?v=RdJtyGmRDUg&ab_channel=KacperNowak
  - Bootstrap
  
  ## Server
- link do servera
+ https://github.com/NowakKacper/MyShelf/tree/main/MyShelf
 
  ## Client
- link do clienta
+ https://github.com/NowakKacper/MyShelf/tree/main/MyShelf-front
  
 
