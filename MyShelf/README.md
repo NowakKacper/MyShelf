@@ -40,5 +40,5 @@ https://www.youtube.com/watch?v=Zrje0kPtKFg&ab_channel=KacperNowak
  - Flyway
  
  ## Client
- 
+ https://github.com/NowakKacper/MyShelf/tree/main/MyShelf_front
 
