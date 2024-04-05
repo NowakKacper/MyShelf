@@ -48,6 +48,6 @@ https://www.youtube.com/watch?v=Zrje0kPtKFg&ab_channel=KacperNowak
  https://github.com/NowakKacper/MyShelf/tree/main/MyShelf
 
  ## Client
- https://github.com/NowakKacper/MyShelf/tree/main/MyShelf-front
+ https://github.com/NowakKacper/MyShelf/tree/main/MyShelf_front
  
 
