@@ -1,7 +1,7 @@
 # MyShelf
 
 ## Presentation of the application's operation
-https://www.youtube.com/watch?v=RdJtyGmRDUg&ab_channel=KacperNowak
+https://www.youtube.com/watch?v=Zrje0kPtKFg&ab_channel=KacperNowak
 
 ## Screenshots
 ![Starting page](https://github.com/NowakKacper/MyShelf/assets/87521449/7f6a1469-5921-41f7-a954-fddc555c2a56)
@@ -19,9 +19,12 @@ https://www.youtube.com/watch?v=RdJtyGmRDUg&ab_channel=KacperNowak
  - viewing books 
  - adding or changing rate of books 
  - sorting books with selected category
+ - searching books by title or author
+ - reporting books
  
  ## Additionally admin has a few more functionalities: 
- - accepting or rejecting a book added by a user  
+ - accepting or rejecting a book added by a user
+ - accepting or rejecting a report added by a user  
  - updating book data 
  - deleting a book
  
